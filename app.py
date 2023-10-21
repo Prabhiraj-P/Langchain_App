@@ -1,4 +1,5 @@
 import streamlit as st 
+from altair.vegalite.v4 import Chart
 from streamlit_extras.add_vertical_space import add_vertical_space
 
 with st.sidebar:
