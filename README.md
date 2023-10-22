@@ -13,9 +13,8 @@ LLM Chat is a language model-based chatbot that allows users to interact with a 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/Prabhiraj-P/Langchain_App
-   cd LLM-Chat
    ```
 # Install the required Python packages:
 ```
